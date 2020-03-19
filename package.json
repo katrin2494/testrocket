@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
-    "jquery": "^1.11.3",
+    "jquery": "^3.4.0",
     "jquery-ui": "^1.12.1",
     "modernizr": "^3.5.0",
     "npm-modernizr": "^2.8.3",
